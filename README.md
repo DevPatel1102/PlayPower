@@ -1,6 +1,6 @@
 ## PlayPower Notes (React + Vite)
 
-AI-powered, encrypted notes with a custom rich text editor. Hosted on Netlify/Vercel/GitHub Pages.
+AI-powered, encrypted notes with a custom rich text editor. Hosted on Netlify.
 
 ### Features
 - Custom rich text editor: bold, italic, underline, alignment, font size
