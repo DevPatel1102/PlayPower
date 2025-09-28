@@ -21,11 +21,3 @@ npm run dev
 npm run build
 npm run preview
 ```
-
-### Deploy
-- Netlify: uses `netlify.toml`
-- Vercel / GitHub Pages: static build in `dist/`
-
-### Environment
-- `VITE_GROQ_API_KEY`: your Groq API key
-- `VITE_GROQ_MODEL`: optional, default `llama3-8b-8192`
