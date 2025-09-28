@@ -1,4 +1,4 @@
-## PlayPower Notes (React + Vite) - [thinqnote.netlify.app](https://thinqnote.netlify.app)
+## PlayPower Notes (React + Vite) - [Thinqnote](https://thinqnote.netlify.app)
 
 AI-powered, encrypted notes with a custom rich text editor. Hosted on Netlify.
 
